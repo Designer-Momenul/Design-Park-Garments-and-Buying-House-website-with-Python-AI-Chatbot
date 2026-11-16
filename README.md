@@ -1,0 +1,2 @@
+# Design-Park-Garments-and-Buying-House-website-with-Python-AI-Chatbot
+Developed a modern, fully responsive corporate website for Design Park Garment, a garments sourcing and buying house. Built using HTML5, CSS3, and JavaScript and integrated an interactive AI Customer Support Chatbot capable of handling instant buyer inquiries regarding product catalogs, minimum order quantities (MOQ), and sourcing services 24/7. 
